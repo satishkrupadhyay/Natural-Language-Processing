@@ -1,2 +1,3 @@
-# Word-Cloud
-Word Cloud using R - Natural Language Processing(NLP)
+# Natural Language Processing(NLP)
+
+## Word Cloud using R
